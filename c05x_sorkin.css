@@ -1,0 +1,42 @@
+html {
+    background-color: yellow;
+    border-style: single;
+    border-color: black;
+    border-width: 10px;
+    
+    
+
+    
+    
+}
+body {
+    
+    width: 650px;
+    margin:auto;
+    border-style: double;
+    border-color: blue;
+    border-width: 10px;
+    background-color: white;
+    
+}
+main  {
+      padding 1.5em
+    
+    
+      
+}
+footer {
+    border-top-style: solid;
+    margin 0.5em;
+}
+h1 {
+    font-size: 150%;
+    color: blue;
+}
+h2 {
+    font-size: 125%;
+    margin-bottom:0.5em;
+}
+h3 {
+    font-size: 115%; 
+}
